@@ -1,4 +1,5 @@
 pip install -r requirements.txt
+pip install --upgrade pip
 sns.set(style='dark')
 
 # Helper function yang dibutuhkan untuk menyiapkan berbagai dataframe
